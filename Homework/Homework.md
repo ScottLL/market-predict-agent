@@ -85,7 +85,7 @@ Must include at least:
 **B. Markdown report** (human-readable summary)
 A short report that could be posted to Slack/Notion/dashboard.
 
-**Check the example input.json, output.json and report.md for reference.** 
+**Check the example input.json, output.json and report.md for reference.**
 
 ---
 
