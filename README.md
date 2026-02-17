@@ -2,6 +2,9 @@
 
 A beginner-friendly AI/ML demo app that downloads daily stock data from Alpaca, computes technical indicators, trains a Random Forest model, and visualizes predictions. **Educational purposes only — not financial advice.**
 
+<img width="787" height="836" alt="Screenshot 2026-02-15 at 5 50 10 PM" src="https://github.com/user-attachments/assets/785d93ea-9ae3-414a-85ce-4150d535beba" />
+
+
 ## Setup
 
 1. **Create a virtual environment** (recommended):
